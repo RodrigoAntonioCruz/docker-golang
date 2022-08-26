@@ -3,12 +3,12 @@
   Desafio Curso FullCyle
 </h3>
 
-### Contexto do Desafio
+## Contexto do Desafio
 
 O desafio proposto no curso FullCycle tem como objetivo criar uma imagem de um programa na linguagem GoLang com menos de 2M.A imagem foi publicada do <a href="https://hub.docker.com/r/rodrigocruz1985/go" target="_blank">dockerHub</a>. Siga as instruções abaixo para realizar o download e executar.
 
 
-### Get started
+## Iniciar
 
 Para rodar estas aplicações, você deve ter instalado em seu computador:
 
