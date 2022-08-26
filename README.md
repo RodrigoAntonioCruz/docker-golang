@@ -12,7 +12,7 @@ O desafio proposto no curso FullCycle tem como objetivo criar uma imagem de um p
 
 #### Iniciar
 
-Para iniciar você pode clonar este repo, mofdificar a imagem e reconstruíla com comando de build. Ou se preferir realize o download da imagem do <a href="https://hub.docker.com/r/rodrigocruz1985/go" target="_blank">dockerHub</a> com pull e executá-la com run.
+Para iniciar você pode clonar este repositório, modificar a imagem e reconstruíla com comando de build. Ou se preferir realize o download da imagem do <a href="https://hub.docker.com/r/rodrigocruz1985/go" target="_blank">dockerHub</a> com pull e executá-la com run.
 
 <ul> 
   
