@@ -1,10 +1,9 @@
-
-<h3 align="center">
+ <h3 align="center" style="color:black">
     <img align="center" alt="Logo FullCycle"  height="100" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/fullcycle.png" />
   <br>
   
   Desafio Curso FullCyle
-</h3><br>
+</h3>
 
 #### Contexto do Desafio
 
