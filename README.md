@@ -14,13 +14,13 @@ Para rodar estas aplicações, você deve ter instalado em seu computador:
 
 <ul> 
   
-   <li>Build
+   <li><b>Build</b> <br>
        docker build -t rodrigocruz1985/go .  
      
-   <li>Pull
+   <li><b>Pull</b> <br>
        docker pull rodrigocruz1985/go
      
-   <li>Run
+   <li><b>Run</b> <br>
        docker run --rm rodrigocruz1985/go
      
 </ul> 
