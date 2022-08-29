@@ -7,21 +7,22 @@
 
 #### Contexto do Desafio
 
-O desafio proposto no curso FullCycle tem como objetivo colocar em prática o que aprendemos em relação a utilização do nginx como proxy reverso. A idéia principal é que quando um usuário acessar o nginx, o mesmo fará uma chamada em nossa aplicação node.js. Essa aplicação por sua vez adicionará um registro em nosso banco de dados mysql, cadastrando um nome na tabela people.
+O desafio proposto no curso FullCycle tem como objetivo criar uma imagem de um programa na linguagem GoLang com menos de 2 megas. A imagem foi publicada no <a href="https://hub.docker.com/r/rodrigocruz1985/go" target="_blank">dockerHub</a>.
+
 
 #### Iniciar
 
-Para iniciar você pode clonar este repositório e execute o seguinte comando no terminal
+Para iniciar você pode clonar este repositório, modificar a imagem e reconstruíla com comando de build. Ou se preferir realize o download da imagem do <a href="https://hub.docker.com/r/rodrigocruz1985/go" target="_blank">dockerHub</a> com pull e executá-la com run.
 
 <ul> 
+  
+   <li><b>Build</b> <br>
+       docker build -t rodrigocruz1985/go .  <br> 
+     
+   <li><b>Pull</b> <br>
+       docker pull rodrigocruz1985/go  <br>
+     
    <li><b>Run</b> <br>
-        docker-compose up -d 
+       docker run --rm rodrigocruz1985/go  <br>
+     
 </ul> 
-
-#### Acesse no browser o enpoint http://localhost:8000, que resultará em :
-
-<hr>
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/diagrama-1.0.png" />
-</p>
-<hr>
