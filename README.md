@@ -16,13 +16,10 @@ Para iniciar você pode clonar este repositório, modificar a imagem e reconstru
 
 <ul> 
   
-   <li><b>Build</b> <br>
-       docker build -t rodrigocruz1985/go .  <br> 
+   <li> docker build -t rodrigocruz1985/go .  <br> 
      
-   <li><b>Pull</b> <br>
-       docker pull rodrigocruz1985/go  <br>
+   <li> docker pull rodrigocruz1985/go  <br>
      
-   <li><b>Run</b> <br>
-       docker run --rm rodrigocruz1985/go  <br>
+   <li> docker run --rm rodrigocruz1985/go  <br>
      
 </ul> 
